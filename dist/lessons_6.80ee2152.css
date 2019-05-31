@@ -1,0 +1,16 @@
+body {
+  background: #f55a3e;
+  color: #000;
+  font-size: 25px;
+}
+body input {
+  width: 300px;
+  height: 40px;
+  font-size: 25px;
+  border: 1px solid #000;
+  background: #fff;
+  color: #000;
+  border-radius: 5px;
+}
+
+/*# sourceMappingURL=/lessons_6.80ee2152.css.map */
